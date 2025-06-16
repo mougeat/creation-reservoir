@@ -1,8 +1,8 @@
 {
   "name": "creation-de-reservoir-sur-mesure",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "download_url": "https://tonsite.com/plugins/creation-de-reservoir-sur-mesure.zip",
-  "last_updated": "2025-06-15",
+  "last_updated": "2025-06-16",
   "sections": {
     "description": "Nouvelles fonctionnalités et corrections.",
     "changelog": "– Ajout du suivi de phases\n– Optimisation des performances"
