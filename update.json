@@ -1,7 +1,11 @@
 {
-  "name": "creation-de-reservoir-sur-mesure",
+  "name": "Création de réservoir sur mesure",
   "version": "1.2.1",
-  "download_url": "https://github.com/mougeat/creation-reservoir/blob/main/20250613%20-%20creation-de-reservoir-sur-mesure.zip",
+  "requires": "5.0",
+  "tested": "6.5",
+  "author": "Cyril Barthel",
+  "homepage": "https://github.com/mougeat/creation-reservoir",
+  "package": "https://github.com/mougeat/creation-reservoir/raw/main/20250613%20-%20creation-de-reservoir-sur-mesure.zip",
   "last_updated": "2025-06-16",
   "sections": {
     "description": "Nouvelles fonctionnalités et corrections.",
