@@ -1,14 +1,14 @@
 {
   "name": "Création de réservoir sur mesure",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "requires": "5.0",
   "tested": "6.8.1",
   "author": "Cyril Barthel",
   "homepage": "https://raw.githubusercontent.com/mougeat/creation-reservoir/",
   "package": "https://raw.githubusercontent.com/mougeat/creation-reservoir/main/creation-de-reservoir-sur-mesure.zip",
-  "last_updated": "2025-06-16",
+  "last_updated": "2025-06-21",
   "sections": {
     "description": "Nouvelles fonctionnalités et corrections.",
-    "changelog": "– Ajout du suivi de phases\n– Optimisation des performances\n- Création du infinite-scroll\n- Champs de recherche des projets"
+    "changelog": "– Ajout du suivi de phases\n– Optimisation des performances\n- Création du infinite-scroll\n- Champs de recherche des projets\n- Ajout du details des articles et details du projet modifiable par l'admin"
   }
 }
